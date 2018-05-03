@@ -1,0 +1,31 @@
+/* 16px == 1rem */
+html { font-size: 16px; }
+
+.btn_nowhere{
+  background-color: lightblue;
+}
+.btn_missionaccomp{
+  background-color: orangered;
+  color: orange;
+}
+.btn_backward{
+  background-color: lightblue;
+  color: snow;
+}
+
+h1 {
+  font: bold;
+  color: black;
+  font-weight: 1000;
+}  
+p {
+  font-family: "Arial, Helvetica, sans-serif";
+}
+
+article {
+  
+  width: 40rem;
+  height: 15rem;
+  margin: auto;
+}
+
